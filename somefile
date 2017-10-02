@@ -1,5 +1,6 @@
 change master after reb3, c1
 
+reb3, c2
 CHANGE master 1 AFTER REB2
 
 change from master after creation of rebtest
