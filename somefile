@@ -1,4 +1,4 @@
-change master after reb3, c1
+dsdsaasachange master after reb3, c1
 
 reb3, c2
 CHANGE master 1 AFTER REB2
@@ -37,3 +37,9 @@ SSSSSS CHANGE MASTER 2 AFTER REB2
 
 
 REB 2 C2
+
+
+REB 3 C1
+
+
+REB 3 C2
